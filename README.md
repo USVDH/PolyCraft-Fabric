@@ -38,5 +38,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.3](https://www.curseforge.com/minecraft/mc-mods/lithium/files/3380166)
 - [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters) [1.4.3](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/files/3160868)
 - [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) [1.0.4](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/files/3346108)
+- [LapisReserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) [1.0.8](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve/files/3345208)
 
 
