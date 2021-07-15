@@ -21,3 +21,6 @@ fabric-server-launch.jar
 # Mods
 mods/fabric-api-0.37.0+1.17.jar
 mods/lithium-fabric-mc1.17.1-0.7.3.jar
+mods/lithium.properties
+mods/bedrockwaters-1.4.3+1.16.4.jar
+config/bedrockwaters/*

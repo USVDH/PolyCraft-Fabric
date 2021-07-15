@@ -35,5 +35,5 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.37.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3386484)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.3](https://www.curseforge.com/minecraft/mc-mods/lithium/files/3380166)
-
+- [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters) [1.4.3](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/files/3160868)
 
