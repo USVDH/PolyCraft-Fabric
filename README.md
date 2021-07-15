@@ -35,5 +35,5 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.37.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3386484)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.3](https://www.curseforge.com/minecraft/mc-mods/lithium/files/3380166)
-- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) [0.7.2](https://www.curseforge.com/minecraft/mc-mods/phosphor/files/3294303)
+
 
