@@ -1,0 +1,7 @@
+.fabric-installer/*
+
+# Vanilla
+server.jar
+
+# Fabric
+fabric-server-launch.jar
