@@ -16,3 +16,7 @@ whitelist.json
 .mixin.out/*
 logs/*
 fabric-server-launch.jar
+
+
+# Mods
+mods/fabric-api-0.37.0+1.17.jar
