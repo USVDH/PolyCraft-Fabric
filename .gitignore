@@ -2,6 +2,17 @@
 
 # Vanilla
 server.jar
+world/*
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+usercache.json
+whitelist.json
 
 # Fabric
+.fabric/*
+.fabric-installer/*
+.mixin.out/*
+logs/*
 fabric-server-launch.jar
