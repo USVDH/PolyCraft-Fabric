@@ -25,3 +25,5 @@ mods/lithium-fabric-mc1.17.1-0.7.3.jar
 config/lithium.properties
 mods/bedrockwaters-1.4.3+1.16.4.jar
 config/bedrockwaters/*
+mods/lengthyladders-1.0.4.jar
+config/LengthyLadders.conf

@@ -37,5 +37,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) [1.6.2](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/3364215)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.3](https://www.curseforge.com/minecraft/mc-mods/lithium/files/3380166)
 - [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters) [1.4.3](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/files/3160868)
+- [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) [1.0.4](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/files/3346108)
 
 
