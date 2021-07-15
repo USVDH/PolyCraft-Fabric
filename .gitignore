@@ -20,3 +20,5 @@ fabric-server-launch.jar
 
 # Mods
 mods/fabric-api-0.37.0+1.17.jar
+mods/lithium-fabric-mc1.17.1-0.7.3.jar
+mods/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar
