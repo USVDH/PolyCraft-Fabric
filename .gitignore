@@ -34,6 +34,8 @@ mods/wanderingcollector-1.0.2+mc1.17.jar
 config/wandering_collector.hjson
 mods/notchify-0.4.1-noconfigmenu.jar
 mods/textile_backup-2.1.0-1.17.jar
+mods/mods-command-mc1.17-1.0.3.jar
+config/mods-command.conf
 
 # Backup
 backup/*
