@@ -1,0 +1,27 @@
+{
+  "enable_enchanting_using_anvil": true,
+  "enable_enchanting_using_enchanting_table": false,
+  "enchanted_golden_apple_cost": 50,
+  "creative_player_always_succeeds": true,
+  "survival_player_always_succeeds": false,
+  "enchanting_chance_modifier": 1.0,
+  "can_golden_apple_vanish": true,
+  "vanishing_chance": 0.9,
+  "can_enchanted_golden_apple_become_cursed": true,
+  "chance_of_curse": 0.1,
+  "anvil_requires_secondary_item": true,
+  "anvil_secondary_item_id": "minecraft:nether_star",
+  "anvil_secondary_item_amount": 1,
+  "anvil_secondary_item_nbt_enabled": false,
+  "anvil_secondary_item_nbt": "{}",
+  "can_grindstone_remove_enchantment": true,
+  "grinding_xp_multiplier": 0.1,
+  "will_cursed_apple_poison": true,
+  "cursed_apple_poison_effects": [
+    {
+      "statusEffectId": "minecraft:nausea",
+      "duration": 3000,
+      "amplifier": 0
+    }
+  ]
+}
