@@ -1,6 +1,4 @@
--# Polycraft
-
-# THIS IS STILL UNDER DEVELOPMENT!!!
+# Polycraft
 
 Version 2.0 of the private Minecraft survival server Polycraft. 
 
