@@ -40,5 +40,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) [1.0.4](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/files/3346108)
 - [LapisReserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) [1.0.8](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve/files/3345208)
 - [TheLovedOnes](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones) [1.2.0](https://www.curseforge.com/minecraft/mc-mods/the-loved-ones/files/3361467)
+- [WanderingCollector](https://modrinth.com/mod/wandering-collector) [1.0.2](https://modrinth.com/mod/wandering-collector/version/zSsKV0tr)
 
 

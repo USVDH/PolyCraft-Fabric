@@ -30,3 +30,5 @@ config/LengthyLadders.conf
 mods/lapisreserve-1.0.8.jar
 mods/the_loved_ones-1.2.0+1.17.jar
 config/the_loved_ones.json5
+mods/wanderingcollector-1.0.2+mc1.17.jar
+config/wandering_collector.hjson
