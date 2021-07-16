@@ -33,3 +33,7 @@ config/the_loved_ones.json5
 mods/wanderingcollector-1.0.2+mc1.17.jar
 config/wandering_collector.hjson
 mods/notchify-0.4.1-noconfigmenu.jar
+mods/textile_backup-2.1.0-1.17.jar
+
+# Backup
+backup/*
