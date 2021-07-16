@@ -44,5 +44,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/files/3346344)
 - [TextileBackup](https://www.curseforge.com/minecraft/mc-mods/textile-backup) [2.1.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/files/3357510)
 - [ModsCommand](https://modrinth.com/mod/mods-command) [1.0.3](https://modrinth.com/mod/mods-command/version/bEOwYOZb)
+- ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch) [1.0.0](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch/files/3383833)
 
 
