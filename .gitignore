@@ -9,6 +9,7 @@ eula.txt
 ops.json
 usercache.json
 whitelist.json
+crash-reports/*
 
 # Fabric
 .fabric/*
