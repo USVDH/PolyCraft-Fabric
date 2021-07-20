@@ -24,6 +24,7 @@ PolyCraft V1 officially started in 2016 at Minecraft version 1.10 (Java), but ha
 This repo is provided without the server .jar file and plugin .jar files, please download them from their respective creators. To get a working Minecraft server use the next steps: 
 1. Download [Fabric](https://fabricmc.net/use/) and run the .jar (or .exe) file to get the fabric .jar and vanilla .jar files.
 2. Download all the mods and put them into /mods
+3. Download the datapacks and put them into /world/datapacks
 
 And you're done! Now you (should) have a fully working server.
 
@@ -49,3 +50,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch) [1.0.0](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch/files/3383833)
 
 
+### Datapacks
+
+- [Vanilla Tweaks Player Head Drops & More Mob Heads](https://vanillatweaks.net/share#ctCn0s)
