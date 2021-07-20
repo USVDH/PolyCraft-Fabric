@@ -32,7 +32,7 @@ And you're done! Now you (should) have a fully working server.
 
 ### Mod loader
 
-In this release (v1.0.0) Fabric Loader v0.11.6 is used for Minecraft 1.17.1.
+In this release (v1.0.0) (Fabric Loader v0.11.6)[https://fabricmc.net/use/] is used for Minecraft 1.17.1.
 
 ### Mods
 
