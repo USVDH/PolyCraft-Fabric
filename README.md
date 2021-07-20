@@ -1,6 +1,6 @@
 # Polycraft
 
-Version 2.0 of the private Minecraft survival server Polycraft. 
+Version 2.0 of the private Minecraft survival server Polycraft. Check the releases page for the configurations for specific versions of Minecraft.
 
 ## Getting Started
 
@@ -26,6 +26,10 @@ This repo is provided without the server .jar file and plugin .jar files, please
 2. Download all the mods and put them into /mods
 
 And you're done! Now you (should) have a fully working server.
+
+### Mod loader
+
+In this release (v1.0.0) Fabric Loader v0.11.6 is used for Minecraft 1.17.1.
 
 ### Mods
 
