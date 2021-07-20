@@ -53,3 +53,4 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 ### Datapacks
 
 - [Vanilla Tweaks Player Head Drops & More Mob Heads](https://vanillatweaks.net/share#ctCn0s)
+- [Voodoo Packs AFK Detection, PvP Player Heads & Trader Notify](http://mc.voodoobeard.com/#datapacks)
