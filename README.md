@@ -25,6 +25,8 @@ This repo is provided without the server .jar file and plugin .jar files, please
 1. Download [Fabric](https://fabricmc.net/use/) and run the .jar (or .exe) file to get the fabric .jar and vanilla .jar files.
 2. Download all the mods and put them into /mods
 3. Download the datapacks and put them into /world/datapacks
+4. Start the server once and then shut it down
+5. Adjust the configs in /config to your liking. The most important ones are config/disfabric.json5 and config/textile_backup.json5
 
 And you're done! Now you (should) have a fully working server.
 
