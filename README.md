@@ -52,6 +52,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch) [1.0.0](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch/files/3383833)
 - [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric) [1.3.3](https://www.curseforge.com/minecraft/mc-mods/disfabric/files/3347232)
 - [DimentionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) [1.2.5](https://github.com/WearBlackAllDay/DimensionalThreading/releases/tag/v1.2.5)
+- [Ledger](https://github.com/QuiltServerTools/Ledger) [1.0.2](https://github.com/QuiltServerTools/Ledger/releases/tag/v1.0.2)
 
 ### Datapacks
 
