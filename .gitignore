@@ -39,6 +39,7 @@ config/mods-command.conf
 mods/world-anchor-patches-fabric-mc1.17.1-1.0.0.jar
 mods/disfabric-1.17-1.3.3.jar
 config/disfabric.json5
+mods/DimThread-1.2.5.jar
 
 # Backup
 backup/*
