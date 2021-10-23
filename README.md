@@ -40,7 +40,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.37.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3386484)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) [1.6.2](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/3364215)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.3](https://www.curseforge.com/minecraft/mc-mods/lithium/files/3380166)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.4](https://www.curseforge.com/minecraft/mc-mods/lithium/download/3438799)
 - [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters) [1.4.3](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/files/3160868)
 - [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) [1.0.4](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/files/3346108)
 - [LapisReserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) [1.0.8](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve/files/3345208)
