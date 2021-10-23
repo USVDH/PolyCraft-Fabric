@@ -48,7 +48,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [WanderingCollector](https://modrinth.com/mod/wandering-collector) [1.0.2](https://modrinth.com/mod/wandering-collector/version/zSsKV0tr)
 - [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/files/3346344)
 - [TextileBackup](https://www.curseforge.com/minecraft/mc-mods/textile-backup) [2.2.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/download/3412941)
-- [ModsCommand](https://modrinth.com/mod/mods-command) [1.0.3](https://modrinth.com/mod/mods-command/version/bEOwYOZb)
+- [ModsCommand](https://modrinth.com/mod/mods-command) [1.0.4](https://modrinth.com/mod/mods-command/version/bScsJIDd)
 - ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch) [1.0.0](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch/files/3383833)
 - [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric) [1.3.3](https://www.curseforge.com/minecraft/mc-mods/disfabric/files/3347232)
 - [Ledger](https://github.com/QuiltServerTools/Ledger) [1.0.2](https://github.com/QuiltServerTools/Ledger/releases/tag/v1.0.2)
