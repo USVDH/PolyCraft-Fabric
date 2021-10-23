@@ -1,5 +1,9 @@
 {
 	/* 
+	   Should every world have its own backup folder?
+	*/
+	"perWorldBackup": true,
+	/* 
 	   Time between automatic backups in seconds
 	   When set to 0 backups will not be performed automatically
 	*/
@@ -21,15 +25,11 @@
 	*/
 	"backupOldWorlds": true,
 	/* 
-	   Should every world have its own backup folder?
-	*/
-	"perWorldBackup": true,
-	/* 
 	   A path to the backup folder
 	*/
 	"path": "backup/",
 	/* 
-	   This setting allows you to exclude files form being backedup.
+	   This setting allows you to exclude files form being backed-up.
 	   Be very careful when setting it, as it is easy corrupt your world!
 	*/
 	"fileBlacklist": [],
