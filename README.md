@@ -38,7 +38,7 @@ In this release (v1.0.0) [Fabric Loader v0.11.6](https://fabricmc.net/use/) is u
 
 Below is a list of the mods used for this release (v1.0.0) with their respective versions. However, if there is a newer version available I suggest using that instead. Click on the mod name for the CurseForge page, and click on the version number to go directly to the version download.
 
-- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.37.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3386484)
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.41.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3494349)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) [1.6.2](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/3364215)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) [0.7.4](https://www.curseforge.com/minecraft/mc-mods/lithium/download/3438799)
 - [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters) [1.5.0](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/download/3466383)
