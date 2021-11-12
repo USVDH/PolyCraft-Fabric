@@ -29,4 +29,6 @@ In this release (v1.0.0) [Fabric Loader v0.11.6](https://fabricmc.net/use/) is u
 
 Below is a list of the mods used for this release (v1.0.0) with their respective versions. However, if there is a newer version available I suggest using that instead. Click on the mod name for the CurseForge page, and click on the version number to go directly to the version download.
 
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.42.2](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3522624/file)
+
 ### Datapacks
