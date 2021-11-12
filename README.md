@@ -31,5 +31,6 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [0.42.2](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3522624/file)
 - [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) [1.0.5](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/download/3522416/file)
+- [LapisReserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) [1.0.8](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve/download/3345208/file)
 
 ### Datapacks
