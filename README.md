@@ -36,3 +36,5 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 - [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/download/3346344/file)
 
 ### Datapacks
+
+- [Vanilla Tweaks Player Head Drops & More Mob Heads](https://vanillatweaks.net/share#ctCn0s)
