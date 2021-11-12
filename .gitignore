@@ -17,6 +17,8 @@ crash-reports/*
 .mixin.out/*
 logs/*
 fabric-server-launch.jar
+libraries/*
+versions/*
 
 # Mods
 mods/fabric-api-0.41.0+1.17.jar
