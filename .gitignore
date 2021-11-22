@@ -21,7 +21,7 @@ libraries/*
 versions/*
 
 # Mods
-mods/fabric-api-0.42.2+1.18.jar
+mods/fabric-api-0.42.8+1.18.jar
 mods/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar
 mods/lithium-fabric-mc1.17.1-0.7.4.jar
 config/lithium.properties
