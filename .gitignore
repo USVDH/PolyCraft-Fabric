@@ -22,7 +22,7 @@ versions/*
 
 # Mods
 mods/fabric-api-0.43.1+1.18.jar
-mods/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar
+mods/fabric-language-kotlin-1.7.0+kotlin.1.5.31.jar
 mods/lithium-fabric-mc1.17.1-0.7.4.jar
 config/lithium.properties
 mods/bedrockwaters-1.5.0+1.17.1.jar
