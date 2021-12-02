@@ -23,7 +23,7 @@ And you're done! Now you (should) have a fully working server.
 
 ### Mod loader
 
-In this release (v1.0.0) [Fabric Loader v0.11.6](https://fabricmc.net/use/) is used for Minecraft 1.18-pre1.
+In this release (v1.0.0) [Fabric Loader](https://fabricmc.net/use/) is used for Minecraft 1.18.
 
 ### Mods
 
@@ -39,9 +39,3 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 | [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) | [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/download/3346344/file) |
 | [Ledger](https://github.com/QuiltServerTools/Ledger/) | [1.2.0](https://github.com/QuiltServerTools/Ledger/releases/download/v1.2.0/ledger-1.2.0.jar) |
 | [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup/) | [2.3.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/download/3542373/file) |
-
-
-
-### Datapacks
-
-- [Vanilla Tweaks Player Head Drops & More Mob Heads](https://vanillatweaks.net/share#ctCn0s)
