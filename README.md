@@ -38,7 +38,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 | [WanderingCollector](https://modrinth.com/mod/wandering-collector) | [1.0.2](https://cdn.modrinth.com/data/enYiOcBu/versions/1.0.2+mc1.17/wanderingcollector-1.0.2+mc1.17.jar) |
 | [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) | [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/download/3346344/file) |
 | [Ledger](https://github.com/QuiltServerTools/Ledger/) | [1.2.0](https://github.com/QuiltServerTools/Ledger/releases/download/v1.2.0/ledger-1.2.0.jar) |
-| [Textile Backup](https://github.com/QuiltServerTools/Ledger/) | [2.3.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/download/3542373/file) |
+| [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup/) | [2.3.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/download/3542373/file) |
 
 
 
