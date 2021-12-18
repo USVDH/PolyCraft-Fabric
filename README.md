@@ -39,6 +39,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 | [Notchify](https://www.curseforge.com/minecraft/mc-mods/notchify) | [0.4.1](https://www.curseforge.com/minecraft/mc-mods/notchify/download/3346344/file) |
 | [Ledger](https://github.com/QuiltServerTools/Ledger/) | [1.2.0](https://github.com/QuiltServerTools/Ledger/releases/download/v1.2.0/ledger-1.2.0.jar) |
 | [Textile Backup](https://github.com/QuiltServerTools/Ledger/) | [2.3.0](https://www.curseforge.com/minecraft/mc-mods/textile-backup/download/3542373/file) |
+| [DisFabric](https://github.com/QuiltServerTools/Ledger/) | [1.3.5](https://www.curseforge.com/minecraft/mc-mods/disfabric/download/3546329/file) |
 
 
 
