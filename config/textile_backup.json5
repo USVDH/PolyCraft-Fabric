@@ -88,6 +88,14 @@
 	*/
 	"playerBlacklist": [],
 	/* 
+	   Announce to ALL players when backup starts
+	*/
+	"broadcastBackupStart": true,
+	/* 
+	   Announce to ALL players when backup finishes
+	*/
+	"broadcastBackupDone": true,
+	/* 
 	   Format of date&time used to name backup files.
 	   Remember not to use '#' symbol or any other character that is not allowed by your operating system such as:
 	   ':', '\', etc...
