@@ -31,7 +31,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 
 | Mods        | Download  |
 | ------------- | :-----:|
-| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [0.43.1](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3537005/file) |
+| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [0.44.0](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3546679/file) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [1.7.0](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/download/3531998/file) |
 | [LengthyLadders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders) | [1.0.5](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders/download/3522416/file) |
 | [LapisReserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) | [1.0.8](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve/download/3345208/file) |
