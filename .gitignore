@@ -45,6 +45,7 @@ mods/DimThread-1.2.5.jar
 mods/ledger-1.2.0.jar
 config/ledger.toml
 mods/timeoutout-1.0.0+1.18.jar
+mods/starlight-1.0.0+fabric.d0a3220.jar
 
 # Backup
 backup/*
