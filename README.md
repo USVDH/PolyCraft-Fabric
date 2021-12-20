@@ -43,6 +43,7 @@ Below is a list of the mods used for this release (v1.0.0) with their respective
 | [Lithium](https://github.com/QuiltServerTools/Ledger/) | [0.7.6](https://www.curseforge.com/minecraft/mc-mods/lithium/download/3565566/file) |
 | [TimeOutOut](https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric) | [1.0.0](https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric/download/3569025/file) |
 | [Starlight (Fabric)](https://modrinth.com/mod/starlight) | [1.0.0](https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar) |
+| [Krypton](https://github.com/astei/krypton/) | [0.1.6](https://github.com/astei/krypton/releases/download/v0.1.6/krypton-0.1.6.jar) |
 
 
 
