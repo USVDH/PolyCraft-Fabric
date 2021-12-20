@@ -44,6 +44,7 @@ config/disfabric.json5
 mods/DimThread-1.2.5.jar
 mods/ledger-1.2.0.jar
 config/ledger.toml
+mods/timeoutout-1.0.0+1.18.jar
 
 # Backup
 backup/*
